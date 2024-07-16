@@ -29,6 +29,13 @@ Chaque profession se voit associé une ou plusieurs caractéristique pour le mod
 | Alchimie          | Intelligence ou Sagesse        |
 | Forgeron          | Force                          |
 | Cuisinier         | Sagesse                        |
+| Enchanteur        | Intelligence                   |
+| Ingénieur         | Intelligence                   |
+| Bijoutier         | Dextérité                      |
+| Coordonier        | Dextérité                      |
+| Traçeur de rune   | Intelligence ou Sagesse        |
+| Sculteur de rune  | Intelligence ou Sagesse        |
+| Ebéniste          | Dextérité                      |
 
 Un *crafting roll* est réussi s'il est égal ou supérieur à la difficulté de l'item crafté => `1d20+Cmod >= difficulté`
 
@@ -45,3 +52,8 @@ Durant ce temps, **malus de -5 à tous les jets de perception**.
 <!> Pas utilisable pour l'instant <!>
 Précision pour l'alchimie: Comme 2h ne peuvent éventuellement pas être suffisante pour crafter et qu'on est obligé de crafter en un seul coup, il est possible de continuer pendant 2h supplémentaire de craft avant ou après le long repos dans le cas ou on choisit de "craft" lors des **actions de camp** (système développant comment utiliser ces heures de repos). (je dois lire ça pour l'instant je l'utiliserai pas si j'ai pas bien compris)
 <!> ------------- <!>
+
+## Jour de travail
+
+Un joueur peut décider de passer la journée complète à crafter.
+Une journée se compose de 8h de travail et un joueur ne pourra pas exéder 8h hormis cas particuliers.  
